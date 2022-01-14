@@ -1,4 +1,5 @@
 let chosenMaxLife = 100
+
 const ATTACK_VALUE = 10
 const STRONG_ATTACK_VALUE=30
 const MONSTER_ATTACK_VALUE = 14
